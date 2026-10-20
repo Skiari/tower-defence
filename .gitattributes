@@ -2,3 +2,5 @@
 *.luau text eol=lf
 *.lua text eol=lf
 *.json text eol=lf
+*.bat text eol=crlf
+*.exe binary
