@@ -1,0 +1,4 @@
+# Keep Lua files with LF line endings on every computer, so they match Studio exactly
+*.luau text eol=lf
+*.lua text eol=lf
+*.json text eol=lf
